@@ -1,0 +1,80 @@
+Successfactors:
+  patterns: ['successfactors']
+Workday:
+  patterns: ['myworkday']
+Greenhouse:
+  patterns: ['greenhouse.']
+Lever:
+  patterns: ['lever.']
+Icims:
+  patterns: ['icims']
+Digitalrecruiters:
+  patterns: ['digitalrecruiters']
+Smartrecruiters:
+  patterns: ['smartrecruiters']
+Taleo:
+  patterns: ['taleo.', 'oraclecloud']
+Beetween:
+  patterns: ['beetween', 'Beetween']
+Gestmax:
+  patterns: ['gestmax']
+Inrecruiting:
+  patterns: ['inrecruiting']
+Recruitee:
+  patterns: ['recruitee']
+Taleez:
+  patterns: ['taleez']
+Softy:
+  patterns: ['softy']
+Werecruit:
+  patterns: ['werecruit.']
+Teamtailor:
+  patterns: ['teamtailor']
+Hellowork:
+  patterns: ['hellowork', 'hw-recruteur']
+Ashby:
+  patterns: ['ashby']
+Phenompeople:
+  patterns: ['phenompeople']
+BambooHR:
+  patterns: ['bamboohr']
+Jobvite:
+  patterns: ['jobvite']
+Personio:
+  patterns: ['personio']
+JazzHR:
+  patterns: ['jazzhr']
+Breezy:
+  patterns: ['breezy']
+Bullhorn:
+  patterns: ['bullhorn.', 'class="bhi-', 'icon="bhi-']
+Fountain:
+  patterns: ['fountain.']
+Eightfold:
+  patterns: ['eightfold']
+Rippling:
+  patterns: ['.rippling.']
+Pinpoint:
+  patterns: ['pinpointhq']
+Jobdiva:
+  patterns: ['jobdiva.']
+Indeed:
+  patterns: ['indeed.']
+Meteojob:
+  patterns: ['meteojob.']
+GR8People:
+  patterns: ['gr8people']
+Homerun:
+  patterns: ['.homerun.']
+Carerix:
+  patterns: ['carerix']
+CegidHR:
+  patterns: ['.cegid.']
+ParadoxAI:
+  patterns: ['paradox.ai']
+Pageup:
+  patterns: ['pageuppeople']
+Emply:
+  patterns: ['.emply.']
+RexxSystems:
+  patterns: ['.rexx-systems.']
