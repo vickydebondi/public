@@ -1,80 +1,125 @@
 Successfactors:
-  patterns: ['successfactors']
+  patterns:
+    - successfactors
 Workday:
-  patterns: ['myworkday']
+  patterns:
+    - myworkday
 Greenhouse:
-  patterns: ['greenhouse.']
+  patterns:
+    - greenhouse.
 Lever:
-  patterns: ['lever.']
+  patterns:
+    - lever.
 Icims:
-  patterns: ['icims']
+  patterns:
+    - icims
 Digitalrecruiters:
-  patterns: ['digitalrecruiters']
+  patterns:
+    - digitalrecruiters
 Smartrecruiters:
-  patterns: ['smartrecruiters']
+  patterns:
+    - smartrecruiters
 Taleo:
-  patterns: ['taleo.', 'oraclecloud']
+  patterns:
+    - taleo.
+    - oraclecloud
 Beetween:
-  patterns: ['beetween', 'Beetween']
+  patterns:
+    - beetween
+    - Beetween
 Gestmax:
-  patterns: ['gestmax']
+  patterns:
+    - gestmax
 Inrecruiting:
-  patterns: ['inrecruiting']
+  patterns:
+    - inrecruiting
 Recruitee:
-  patterns: ['recruitee']
+  patterns:
+    - recruitee
 Taleez:
-  patterns: ['taleez']
+  patterns:
+    - taleez
 Softy:
-  patterns: ['softy']
+  patterns:
+    - softy
 Werecruit:
-  patterns: ['werecruit.']
+  patterns:
+    - werecruit.
 Teamtailor:
-  patterns: ['teamtailor']
+  patterns:
+    - teamtailor
 Hellowork:
-  patterns: ['hellowork', 'hw-recruteur']
+  patterns:
+    - hellowork
+    - hw-recruteur
 Ashby:
-  patterns: ['ashby']
+  patterns:
+    - ashby
 Phenompeople:
-  patterns: ['phenompeople']
+  patterns:
+    - phenompeople
 BambooHR:
-  patterns: ['bamboohr']
+  patterns:
+    - bamboohr
 Jobvite:
-  patterns: ['jobvite']
+  patterns:
+    - jobvite
 Personio:
-  patterns: ['personio']
+  patterns:
+    - personio
 JazzHR:
-  patterns: ['jazzhr']
+  patterns:
+    - jazzhr
 Breezy:
-  patterns: ['breezy']
+  patterns:
+    - breezy
 Bullhorn:
-  patterns: ['bullhorn.', 'class="bhi-', 'icon="bhi-']
+  patterns:
+    - bullhorn.
+    - class="bhi-
+    - icon="bhi-
 Fountain:
-  patterns: ['fountain.']
+  patterns:
+    - fountain.
 Eightfold:
-  patterns: ['eightfold']
+  patterns:
+    - eightfold
 Rippling:
-  patterns: ['.rippling.']
+  patterns:
+    - .rippling.
 Pinpoint:
-  patterns: ['pinpointhq']
+  patterns:
+    - pinpointhq
 Jobdiva:
-  patterns: ['jobdiva.']
+  patterns:
+    - jobdiva.
 Indeed:
-  patterns: ['indeed.']
+  patterns:
+    - indeed.
 Meteojob:
-  patterns: ['meteojob.']
-GR8People:
-  patterns: ['gr8people']
+  patterns:
+    - meteojob.
+Gr8people:
+  patterns:
+    - gr8people
 Homerun:
-  patterns: ['.homerun.']
+  patterns:
+    - .homerun.
 Carerix:
-  patterns: ['carerix']
-CegidHR:
-  patterns: ['.cegid.']
-ParadoxAI:
-  patterns: ['paradox.ai']
+  patterns:
+    - carerix
+Cegid:
+  patterns:
+    - .cegid.
+Paradoxai:
+  patterns:
+    - paradox.ai
 Pageup:
-  patterns: ['pageuppeople']
+  patterns:
+    - pageuppeople
 Emply:
-  patterns: ['.emply.']
-RexxSystems:
-  patterns: ['.rexx-systems.']
+  patterns:
+    - .emply.
+Rexx:
+  patterns:
+    - .rexx-systems.
