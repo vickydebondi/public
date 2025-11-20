@@ -123,3 +123,6 @@ Emply:
 Rexx:
   patterns:
     - .rexx-systems.
+Flatchr:
+  patterns:
+    - flatchr
