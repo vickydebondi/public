@@ -126,3 +126,8 @@ Rexx:
 Flatchr:
   patterns:
     - flatchr
+Cornerstone:
+  patterns:
+    - talentlink
+    - lumesse
+    - cornerstone
