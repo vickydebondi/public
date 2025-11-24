@@ -158,3 +158,6 @@ Zoho:
 Radancy:
   patterns:
     - .radancy.
+Avature:
+  patterns:
+    - .avature.
