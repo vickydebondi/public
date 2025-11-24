@@ -105,6 +105,7 @@ Gr8people:
 Homerun:
   patterns:
     - .homerun.
+    - homerun-widget
 Carerix:
   patterns:
     - carerix
