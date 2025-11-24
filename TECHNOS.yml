@@ -130,7 +130,9 @@ Cornerstone:
   patterns:
     - talentlink
     - lumesse
-    - cornerstone
 Talentsoft:
   patterns:
     - talentsoft
+Workable:
+  patterns:
+    - .workable.
