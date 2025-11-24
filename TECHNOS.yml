@@ -139,3 +139,6 @@ Workable:
 Softgarden:
   patterns:
     - .softgarden.
+Applyflow:
+  patterns:
+    - .applyflow.
