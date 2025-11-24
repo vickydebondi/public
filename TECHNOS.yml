@@ -150,3 +150,8 @@ Otys:
 Jobtoolz:
   patterns:
     - jobtoolz
+Zoho:
+  patterns:
+    - .zoho.
+    - zohorecruit
+    - zohocdn
