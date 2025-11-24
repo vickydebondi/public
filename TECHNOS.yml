@@ -72,7 +72,7 @@ JazzHR:
     - jazzhr
 Breezy:
   patterns:
-    - breezy
+    - breezy.hr
 Bullhorn:
   patterns:
     - bullhorn.
