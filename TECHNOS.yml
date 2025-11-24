@@ -136,3 +136,6 @@ Talentsoft:
 Workable:
   patterns:
     - .workable.
+Softgarden:
+  patterns:
+    - .softgarden.
