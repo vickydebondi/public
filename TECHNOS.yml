@@ -161,3 +161,12 @@ Radancy:
 Avature:
   patterns:
     - .avature.
+Hubspot:
+  patterns:
+    - -hubspot
+Salesforce:
+  patterns:
+    - salesforce.
+    - force.
+    - salesforce-sites.
+    - lightning.
