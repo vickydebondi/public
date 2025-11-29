@@ -164,6 +164,9 @@ Avature:
 Hubspot:
   patterns:
     - -hubspot
+    - hubspot-
+    - .hubspotuser
+    - .hubspot.
 Salesforce:
   patterns:
     - salesforce.
