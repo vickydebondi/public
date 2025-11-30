@@ -170,6 +170,4 @@ Hubspot:
 Salesforce:
   patterns:
     - salesforce.
-    - force.
     - salesforce-sites.
-    - lightning.
